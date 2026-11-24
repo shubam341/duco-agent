@@ -1,0 +1,70 @@
+================================================================================
+PRE-AUTHORIZATION & CASHLESS APPROVAL REQUEST (PRIMARY INSURER)
+================================================================================
+DATE: 24-Nov-2026
+TO:
+  The Chief Medical Officer / Cashless Claims Department
+  Vidal Health Insurance TPA Pvt. Ltd. / HDFC ERGO General Insurance Co. Ltd.
+  Express Towers, Nariman Point, Mumbai - 400021
+
+FROM:
+  Department of Orthopaedics & Arthroscopic Surgery
+  OrthoCare Specialty Surgical Hospital & Arthroscopy Centre
+  Senapati Bapat Marg, Lower Parel, Mumbai - 400013 (NABH Accredited | ROHINI: 892100)
+
+SUBJECT: URGENT PRE-AUTHORIZATION REQUEST FOR INPATIENT ARTHROSCOPIC SURGERY
+PATIENT NAME: Aarav Sen | AGE/SEX: 32 Yrs / Male
+POLICY / MEMBER ID: HDFC-AAR-01 | POLICY NO: HDFC-EXEC-2026-99014B
+CORPORATE GROUP: Apex Engineering & Architecture Ltd.
+ESTIMATED ADMISSION DATE: 02-Dec-2026 | ESTIMATED LENGTH OF STAY: 2 Days
+
+--------------------------------------------------------------------------------
+1. PRIMARY DIAGNOSIS & ICD-10-CM CODES:
+--------------------------------------------------------------------------------
+- S83.511A: Complete tear of anterior cruciate ligament (ACL) of right knee, initial encounter
+- S83.241A: Complex tear of medial meniscus, current injury, right knee, initial encounter
+
+--------------------------------------------------------------------------------
+2. PROPOSED SURGICAL INTERVENTIONS & CPT CODING:
+--------------------------------------------------------------------------------
+- CPT 29888: Arthroscopically aided anterior cruciate ligament (ACL) reconstruction
+             using quadrupled hamstring autograft and bio-absorbable interference screw fixation
+             [Estimated Cost: INR 3,50,000]
+- CPT 29881: Arthroscopy, knee, surgical; with partial medial meniscectomy and debridement
+             [Estimated Cost: INR 1,00,000]
+TOTAL ESTIMATED SURGICAL & INPATIENT CHARGES: INR 4,50,000
+
+--------------------------------------------------------------------------------
+3. CLINICAL SUMMARY & MEDICAL NECESSITY JUSTIFICATION (MCG / INTERQUAL):
+--------------------------------------------------------------------------------
+Mr. Aarav Sen, a 32-year-old active working professional, sustained an acute twisting injury 
+to his right knee during athletic activity. Clinical examination reveals:
+- Grade 3 Lachman test with soft end-point (gross anterior translational laxity)
+- Positive anterior drawer test and positive pivot-shift phenomenon
+- Marked joint-line tenderness over the medial compartment and traumatic hemarthrosis
+
+CONFIRMATORY RADIOLOGICAL EVIDENCE (3T MRI - APEX DIAGNOSTICS, WORLI, 18-NOV-2026):
+1. Complete disruption and fiber discontinuity of mid-substance anterior cruciate ligament 
+   with empty notch sign and classic lateral pivot-shift bone marrow contusions.
+2. Complex high-grade oblique tear involving the posterior horn and body of the medial meniscus 
+   extending to superior and inferior articular surfaces with meniscocapsular compromise.
+
+CONSERVATIVE MANAGEMENT APPRAISAL:
+Due to complete ligamentous discontinuity and mechanical meniscal instability, conservative 
+management (bracing/physiotherapy alone) carries a high risk of recurrent giving-way, 
+accelerated post-traumatic osteoarthritis, and chondral degradation. Surgical reconstruction 
+is medically indispensable for restoration of joint biomechanics.
+
+--------------------------------------------------------------------------------
+4. COORDINATION OF BENEFITS (COB) DISCLOSURE:
+--------------------------------------------------------------------------------
+Please note that Mr. Aarav Sen is enrolled in dual coverage. HDFC ERGO is the PRIMARY payer 
+under Subscriber Rule (Employee of Apex Engineering). Secondary coverage exists under 
+Star Care Health Insurance (Policy # STAR-CORP-2026-88192A). An initial cashless authorization 
+letter is requested for the primary eligible amount.
+
+ATTENDING SURGEON:
+Dr. Vikram Malhotra, MS (Ortho), DNB (Ortho)
+Consultant Arthroscopy & Joint Reconstruction
+Reg. No: MMC/2004/08/3120 | OrthoCare Hospital
+================================================================================

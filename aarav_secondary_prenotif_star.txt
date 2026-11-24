@@ -1,0 +1,58 @@
+================================================================================
+SECONDARY COVERAGE PRE-NOTIFICATION & COB ENDORSEMENT REQUEST
+================================================================================
+DATE: 24-Nov-2026
+TO:
+  The Claims Adjudication Desk / COB Department
+  MediAssist Healthcare Services TPA / Star Care Health Insurance Co. Ltd.
+  Trade Centre, Bandra-Kurla Complex (BKC), Mumbai - 400051
+
+FROM:
+  Department of Orthopaedics & Arthroscopic Surgery
+  OrthoCare Specialty Surgical Hospital & Arthroscopy Centre
+  Senapati Bapat Marg, Lower Parel, Mumbai - 400013
+
+SUBJECT: PRE-NOTIFICATION OF UPCOMING SURGERY UNDER DUAL COVERAGE (SECONDARY PLAN)
+PATIENT NAME: Aarav Sen | AGE/SEX: 32 Yrs / Male
+SECONDARY MEMBER ID: STAR-AAR-02 | POLICY NO: STAR-CORP-2026-88192A
+PRIMARY POLICYHOLDER: Mrs. Priya Sen (Employee: FinTech Innovations Global Ltd.)
+RELATION TO SUBSCRIBER: Dependent Spouse
+PROPOSED SURGERY DATE: 02-Dec-2026 | ESTIMATED COST: INR 4,50,000
+
+--------------------------------------------------------------------------------
+1. PURPOSE OF PRE-NOTIFICATION:
+--------------------------------------------------------------------------------
+This formal communication serves as advance clinical pre-notification (> 48 hours prior to 
+admission) as stipulated under Clause 8.3 of Star Care Corporate Health Policy. 
+This ensures seamless secondary coordination of benefits without administrative non-compliance.
+
+--------------------------------------------------------------------------------
+2. PRIMARY INSURER STATUS:
+--------------------------------------------------------------------------------
+- Primary Payer: HDFC ERGO General Insurance Co. Ltd. (Policy # HDFC-EXEC-2026-99014B)
+- Basis of Primary Status: Employee / Subscriber Rule (Aarav Sen is Primary Insured)
+- Cashless pre-authorization has concurrently been submitted to Vidal Health TPA.
+
+--------------------------------------------------------------------------------
+3. PROJECTED SECONDARY ADJUDICATION UNDER STANDARD COB:
+--------------------------------------------------------------------------------
+- Total Estimated Surgical Billing: INR 4,50,000
+- Projected Primary (Plan B) Payment: INR 390,000.00
+- Anticipated Patient Responsibility under Primary: INR 60,000.00
+- Projected Secondary (Plan A) COB Reimbursement: INR 60,000.00
+- Net Patient Out-of-Pocket Liability: INR 0.00
+
+--------------------------------------------------------------------------------
+4. ENCLOSED CLINICAL RECORDS:
+--------------------------------------------------------------------------------
+1. 3T MRI Diagnostic Report (Apex Advanced Imaging, Worli)
+2. Detailed Surgical Estimation Sheet (Dr. Vikram Malhotra)
+3. Government Photo ID & Dual Coverage Policy Cross-Enrollment Cards
+
+Please register this secondary claim pre-notification under Claim Tracking File:
+STAR-COB-2026-AARAV-01.
+
+AUTHORIZED MEDICAL SUPERINTENDENT:
+Medical Administration & TPA Desk
+OrthoCare Specialty Surgical Hospital, Mumbai
+================================================================================
